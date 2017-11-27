@@ -1,0 +1,25 @@
+{
+  "name": "hue-monitor",
+  "version": "0.1.0",
+  "description": "For monitoring the availability over time of Philips Hue devices connected to a Hue bridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsjohnward/hue-monitor.git"
+  },
+  "author": "John Ward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsjohnward/hue-monitor/issues"
+  },
+  "homepage": "https://github.com/itsjohnward/hue-monitor#readme",
+  "dependencies": {
+    "csv-write-stream": "^2.0.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "node-hue-api": "^2.4.2"
+  }
+}

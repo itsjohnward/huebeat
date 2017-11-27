@@ -1,0 +1,5 @@
+module.exports = {
+  ip: '192.168.0.115',
+  userId: 'asdfghf6d7s89as67g8ds6g78sdf678s',
+  userDescription: 'Monitor application'
+}
